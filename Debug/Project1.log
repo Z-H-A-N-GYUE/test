@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\大二上数据结构\数据结构课设\Project1\源.cpp(33,14): warning C4101: “arcnum”: 未引用的局部变量
+D:\大二上数据结构\数据结构课设\Project1\源.cpp(33,6): warning C4101: “vexnum”: 未引用的局部变量
+  Project1.vcxproj -> D:\大二上数据结构\数据结构课设\Project1\Debug\Project1.exe
